@@ -5,3 +5,5 @@ Runs Flappy Bird on the graph screen.\
 Before starting the program, make sure that you have turned off the y= equations on your calculator.
 # Quardatic Formula
 Calculates statistics of a parabola.
+# Points and Lines
+Calculates formulas for points and lines.
