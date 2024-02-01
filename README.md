@@ -5,9 +5,15 @@ Runs Flappy Bird on the graph screen.\
 Before starting the program, make sure that you have turned off the y= equations on your calculator.
 # Timer
 Runs a timer or stopwatch. The time may not be exact.
-# Points and Lines
+# Points & Lines
 Calculates formulas for points and lines.
 # Quardatic Formula
-Calculates statistics of a parabola. Only works as an extension for Points and Lines
+Calculates statistics of a parabola. Only works as an extension for *Points & Lines*.
 # Triangles
-Calculates statistics of a triangle. Only works as an extension for Points and Lines
+Calculates statistics of a triangle. Only works as an extension for *Points & Lines*.
+# Optics
+Calculates where an object would be seen through a mirror or lens.
+# Encode & Decode
+Encode and decode **String 0** into **Matrix [A]**
+# Notecards
+Simulates notecards. Press **New** and type in what you want to be on the front and back of the notecard. Press **View** to view the notecards. Uses *Encode* and *Decode*.
